@@ -2,8 +2,6 @@
 <!--[Netlify Status](https://api.netlify.com/api/v1/badges/ecbb943d-6319-49dc-81f7-54af676c16ef/deploy-status)](https://app.netlify.com/sites/onlinecarrental/deploys)-->
 The online car rental system offers a secure and efficient platform for customers to make rental requests, provides real-time access to information for employees, offers an intuitive user interface, and allows administrators to easily update and manage featured vehicles on the website.
 
-
-![image](https://github.com/sahilkumardhala/Online-Car-Rental-System/assets/132347733/fd948551-0417-4b72-bdc2-a12a829f031f)
 # Table of contents
 ![image](https://github.com/sahilkumardhala/Online-Car-Rental-System/assets/132347733/3da14013-facd-4d6a-89cd-ac30993d9efb)
 
