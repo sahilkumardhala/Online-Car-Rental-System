@@ -1,0 +1,14 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: vehiclebookings**
+
+**Developed by Martin Mbithi Nzilani**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: codeastro.com
+
